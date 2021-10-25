@@ -33,7 +33,7 @@ body
 
 #container
 {
-    width: 70%;
+    width: 100%;
     padding: 1cm;
     text-align: left;
     border: 1PX solid rgb(0, 0, 0);
@@ -44,4 +44,12 @@ body
 {
     font-size: 20px;
 
+}
+
+#footer
+{
+    background-color:#33a;
+    color:white;
+    text-align: center;
+    padding: 0.2cm;
 }
