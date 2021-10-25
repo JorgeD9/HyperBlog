@@ -37,10 +37,10 @@ body
 
 #container
 {
-    width: 70%;
-    padding: 0.5cm;
+    width: 100%;
+    padding: 1cm;
     text-align: left;
-    border: 1PX solid rgb(0, 0, 0);
+    border: 1PX solid rgb(255, 255, 255);
 }
 
 
@@ -50,9 +50,10 @@ body
 
 }
 
-#post
+#footer
 {
-    background:white;
-    font-size: 12px;
-    padding: 1cm;
+    background-color:#33a;
+    color:white;
+    text-align: center;
+    padding: 0.2cm;
 }
